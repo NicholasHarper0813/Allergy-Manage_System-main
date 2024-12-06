@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\BlessAhadjie\\OneDrive - AmaliTech gGmbH\\Desktop\\Allergy-Management-System\\frontend\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\BlessAhadjie\\OneDrive - AmaliTech gGmbH\\Desktop\\Allergy-Management-System\\frontend\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/BlessAhadjie/OneDrive - AmaliTech gGmbH/Desktop/Allergy-Management-System/frontend/./frontend/generated/jar-resources",
+  "themeName": "frontend",
+  "clientServiceWorkerSource": "C:\\Users\\BlessAhadjie\\OneDrive - AmaliTech gGmbH\\Desktop\\Allergy-Management-System\\frontend\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
