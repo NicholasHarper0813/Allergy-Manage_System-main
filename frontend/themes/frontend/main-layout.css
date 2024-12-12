@@ -1,12 +1,15 @@
-vaadin-scroller[slot="drawer"] {
+vaadin-scroller[slot="drawer"] 
+{
   padding: var(--lumo-space-s);
 }
 
-vaadin-side-nav-item vaadin-icon {
+vaadin-side-nav-item vaadin-icon 
+{
   padding: 0;
 }
 
-[slot="drawer"]:is(header, footer) {
+[slot="drawer"]:is(header, footer) 
+{
   display: flex;
   align-items: center;
   gap: var(--lumo-space-s);
@@ -15,6 +18,7 @@ vaadin-side-nav-item vaadin-icon {
   box-sizing: border-box;
 }
 
-[slot="drawer"]:is(header, footer):is(:empty) {
+[slot="drawer"]:is(header, footer):is(:empty) 
+{
   display: none;
 }
